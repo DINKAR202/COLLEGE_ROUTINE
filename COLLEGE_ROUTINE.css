@@ -1,0 +1,21 @@
+th{
+    color: black;
+    background-color: hotpink;
+    /* font-size: 10px; */
+
+    
+}
+td{
+    font-size: 12px;
+}
+table{
+    height: 95vh;
+    /* background-color: white; */
+    /* border-radius: 45px; */
+}
+.wsl{
+    background-color: blue;
+}
+.geeta{
+    background-color: red;
+}
